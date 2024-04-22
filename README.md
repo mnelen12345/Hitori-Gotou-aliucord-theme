@@ -1,1 +1,3 @@
-# bocchitherock-aliucord-theme 
+## Plugin Settings
+### Themer
+- Transparency mode set to Chat
