@@ -6,7 +6,7 @@
         "name": "Hitori Gotou"
     },
     "background": {
-        "overlay_alpha": 120,
+        "blur_radius": 1,
         "url": "https:\/\/github.com\/mnelen12345\/Hitori-Gotou-aliucord-theme\/blob\/main\/theme\/background\/photo.png?raw=true"
     },
     "fonts": {
